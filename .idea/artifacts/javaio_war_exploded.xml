@@ -11,6 +11,8 @@
           <element id="library" level="project" name="jdom-2.0.5" />
           <element id="library" level="project" name="junit-4.8" />
           <element id="library" level="project" name="commons-io-2.5" />
+          <element id="library" level="project" name="jxl" />
+          <element id="library" level="project" name="poi-3.11-20141221" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="javaio/web/Web" />

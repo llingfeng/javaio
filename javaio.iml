@@ -28,5 +28,7 @@
     <orderEntry type="library" name="jdom-2.0.5" level="project" />
     <orderEntry type="library" name="junit-4.8" level="project" />
     <orderEntry type="library" name="commons-io-2.5" level="project" />
+    <orderEntry type="library" name="jxl" level="project" />
+    <orderEntry type="library" name="poi-3.11-20141221" level="project" />
   </component>
 </module>
